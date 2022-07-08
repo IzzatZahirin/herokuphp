@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World! kalau salah izzat isap konek naz";
+echo "Hello World!";
 
 ?>
